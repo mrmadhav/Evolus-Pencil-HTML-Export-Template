@@ -16,4 +16,7 @@ Based off:
  * Pretotype template by Rudy Lattae
 
 
-&lt;
+
+This is my first work on Evolus Pencil (was asked to create wireframes for a client) and being a developer, I could not help but tinker a bit with the export functionality. 
+
+Was a nice experience and will most probably enhance this plugin/template more when I've got more time.
