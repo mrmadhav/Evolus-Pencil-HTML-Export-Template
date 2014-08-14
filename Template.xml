@@ -1,0 +1,8 @@
+<Template xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Property name="id">Evolus:HTML:Madhav.axureLAF</Property>
+    <Property name="name">Left and Bottom panel with page notes</Property>
+    <Property name="author">Madhav Ramlugun</Property>
+    <Property name="description">View content 1 page at a time. Side navigation for pages in the left. Bottom bar for page notes. Based off jQuery template by Maxime Delorme and Pretotype template by Rudy Lattae</Property>
+
+    <Property name="styleSheet">StyleSheet.xslt</Property>
+</Template>
